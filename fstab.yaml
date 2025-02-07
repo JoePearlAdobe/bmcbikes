@@ -1,2 +1,7 @@
+# mountpoints:
+#  /: https://adobe.sharepoint.com/:f:/r/sites/AEMNAMExpertSCs/Shared%20Documents/Web%20Foundation%20Training/jpearl/bmcbikes?csf=1&web=1&e=Q5IqpD
+
 mountpoints:
-  /: https://adobe.sharepoint.com/:f:/r/sites/AEMNAMExpertSCs/Shared%20Documents/Web%20Foundation%20Training/jpearl/bmcbikes?csf=1&web=1&e=Q5IqpD
+  /:
+    url: https://content.da.live/JoePearlAdobe/bmcbikes/
+    type: markup
